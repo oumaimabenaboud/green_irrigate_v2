@@ -1,0 +1,9 @@
+streamlit
+openmeteo_requests
+streamlit_folium
+requests_cache
+retry_requests
+geocoder
+joblib
+scikit-learn
+geopy
